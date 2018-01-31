@@ -1,0 +1,11 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.bin
+*.pak
+nw
+.git/
+
